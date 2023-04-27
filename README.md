@@ -100,7 +100,10 @@ mkdir wpFolder
 
 - WordPress Time Machine - Recreating Image Upload Vuln. in WP 4.1
   - Screenshot 1 ![WpScan output](/images/wpTMvuln.png)
+  <img width="544" alt="docker scan" src="https://user-images.githubusercontent.com/122997185/234742647-b1bb5189-c336-4e19-8205-0910f943af70.png">
+
   - Screenshot 2 ![Vulnerability POC recreated](/images/vulnPOC.png)
+<img width="270" alt="kali base" src="https://user-images.githubusercontent.com/122997185/234742884-7357708e-0466-4281-88fb-6d9e0bb32296.png">
 
 
 
