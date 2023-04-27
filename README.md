@@ -137,3 +137,6 @@ mkdir wpFolder
   - [Link 1](https://github.com/oliverwiegers/pentest_lab) - The ideal configuration.
   - [Link 2](https://github.com/hiroshi/docker-dns-proxy)
   - [Link 3](https://github.com/docker/compose/issues/2925)
+
+![WPvsKali](https://user-images.githubusercontent.com/122997185/234745955-65bc2a7a-0fa4-4370-bc60-395f27ee8c68.gif)
+
